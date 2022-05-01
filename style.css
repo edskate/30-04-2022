@@ -1,0 +1,19 @@
+body{
+    background-color: #f2f2f2;
+    text-shadow: 2px 3px 4px #000;
+    font-size: 40px;
+    margin: 50px;
+    box-shadow: 7px 3px 4px #000;
+    width: 50%;
+    text-align: center;
+    border: 4px solid rgb(223, 42, 42);
+    border-radius: 10px;
+    
+}
+h1{
+text-shadow: 2px 3px4px rgb(88, 186, 9);
+background-color: gold;
+border: 3px solid #000000;
+box-shadow: inset 0 0 10px #000000;
+}
+
